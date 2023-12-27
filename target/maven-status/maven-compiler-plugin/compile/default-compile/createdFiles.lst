@@ -1,0 +1,12 @@
+location\AdministrativeArea.class
+location\Country.class
+weather\ErrorUnauthorized.class
+weather\Day.class
+weather\Headline.class
+weather\Weather.class
+weather\Maximum.class
+weather\Minimum.class
+weather\DailyForecast.class
+weather\Night.class
+weather\Temperature.class
+location\Location.class

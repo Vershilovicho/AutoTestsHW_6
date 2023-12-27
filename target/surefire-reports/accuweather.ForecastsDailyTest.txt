@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: accuweather.ForecastsDailyTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.455 s - in accuweather.ForecastsDailyTest
